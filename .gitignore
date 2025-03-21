@@ -82,7 +82,6 @@ dmypy.json
 
 # TensorFlow logs and models
 logs/
-*.h5
 *.hdf5
 
 # Datasets
